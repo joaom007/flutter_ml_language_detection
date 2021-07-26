@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132682402487",
+    "project_id": "flutterappmlkitifsp",
+    "storage_bucket": "flutterappmlkitifsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132682402487:android:5059bf2902406cf4ce1b32",
+        "android_client_info": {
+          "package_name": "br.edu.flutter_app_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132682402487-38l1kda3ltd493rte6omebb58ei933p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5buaZYqDv0ZD8N8m1zps_T6JVLKIfUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132682402487-38l1kda3ltd493rte6omebb58ei933p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
